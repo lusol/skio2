@@ -289,7 +289,7 @@ export default function Home(props) {
           try to use the format "185 berry street, SF, CA" for accurate results
         </div>
         <label>
-          address:
+          current address:
           <input style={{ marginLeft: 10 }} type="text" ref={inputEl} />
         </label>
         <button
